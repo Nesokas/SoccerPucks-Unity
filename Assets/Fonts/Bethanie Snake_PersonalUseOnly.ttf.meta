@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ac689801b4abacf4b91eb22d6f454452
+timeCreated: 1507284237
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bethanie Snake_PersonalUseOnly
+  fontNames:
+  - Bethanie Snake_PersonalUseOnly
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

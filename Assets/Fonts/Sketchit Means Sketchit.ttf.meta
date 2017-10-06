@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e0fd25e8e72953a46a7905bce42775d4
+timeCreated: 1507284569
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sketchit Means Sketchit
+  fontNames:
+  - Sketchit Means Sketchit
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
